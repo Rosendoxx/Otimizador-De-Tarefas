@@ -39,8 +39,10 @@ Nome da tarefa;Descrição da tarefa;true/false
 ### 1. Clone o repositório
 ```bash
 git clone https://github.com/SEU-USUARIO/otimizador-tarefas-java.git
+```bash
 **### 2. Compile o código**
 - javac Tarefa.java
+```bash
 **### 3. Execute o programa**
 - java Tarefa
 
