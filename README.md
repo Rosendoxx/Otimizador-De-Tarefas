@@ -26,12 +26,11 @@ O programa utiliza:
 Nome da tarefa;Descrição da tarefa;true/false
 
 ## 🛠️ Tecnologias e Conceitos usados
-- Java 11+
 - Programação Orientada a Objetos (POO)
 - Manipulação de arquivos (`File`, `FileWriter`, `PrintWriter`, `Scanner`)
 - Estrutura de dados: `ArrayList`
 - Tratamento de exceções com `try` / `catch`
-- Boas práticas de encapsulamento e modularização
+- Boas práticas de encapsulamento
 
 ---
 
